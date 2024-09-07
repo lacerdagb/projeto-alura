@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Alura</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Alura</h1>
+    </header>
+    <main>
+        <section><input type="text" placeholder="Digite um curso, como DATA SCIENCE,  MOBILE, DEVOPS..." id="campo-pesquisa">
+        <button onclick="pesquisar()"><b>Pesquisar</b></button>
+        <section></section>
+    </section>
+    <section  class="resultados-pesquisa" id="resultados-pesquisa">
+       
+   </section>
+    
+    </main>
+    <footer>
+        <p>2024 - Alura, Todos os direitos reservados AOVS Sistemas de Informática S.A
+            CNPJ 05.555.382/0001-33</p>
+        <p>Entre em contato pelas nossas redes</p>
+        <script src="dados.js"></script> <!--Os dados tem que ser carregador primeiro, para depois carregar a lógica-->
+
+        <script src="app.js"></script>  <!--É colocado em baixo, pois todo aquivo é carregado, para depois carregar os scripts-->
+
+    </footer>
+</body>
+</html>
