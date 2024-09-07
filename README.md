@@ -1,5 +1,5 @@
 ##  Alura Search: Encontre seu próximo curso!
-
+**link do projeto: https://lacerdagb.github.io/projeto-alura/ **
 **O que é esse projeto?**
 
 Alura Search é um projeto simples criado com HTML, CSS e JavaScript que te ajuda a encontrar rapidamente os cursos da Alura que mais te interessam. 
@@ -55,5 +55,7 @@ Agradeço à Alura por proporcionar o conhecimento e a inspiração para a cria�
 * **Instalação:** Caso o projeto necessite de alguma ferramenta específica para rodar.
 * **Como contribuir:** Explicando como outras pessoas podem contribuir com o projeto.
 * **Licença:** Informando a licença utilizada para o projeto.
+**link do projeto: https://lacerdagb.github.io/projeto-alura/ **
+
 
 
