@@ -56,4 +56,4 @@ Agradeço à Alura por proporcionar o conhecimento e a inspiração para a cria�
 * **Como contribuir:** Explicando como outras pessoas podem contribuir com o projeto.
 * **Licença:** Informando a licença utilizada para o projeto.
 
-**Com este README bem elaborado, você estará incentivando outras pessoas a contribuírem com o seu projeto e a aprenderem com ele.**
+
